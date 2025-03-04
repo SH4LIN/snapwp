@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1
+
+### Patch Changes
+
+-   [#113](https://github.com/rtCamp/snapwp/pull/113) [`d7b87dc`](https://github.com/rtCamp/snapwp/commit/d7b87dc2b2dc0e0221fa074cdd951e39ed44a0ab) Thanks [@ayushnirwal](https://github.com/ayushnirwal)! - fix: remote patterns in users config being ignored
+
 ## 0.2.0
 
 ### Minor Changes
